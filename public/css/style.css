@@ -1,0 +1,9 @@
+@import "tailwindcss/utilities";
+
+
+    .hero-bg-image {
+        background: url('https://i.pinimg.com/originals/05/fe/d8/05fed8952cdbd3fc816d061394bd1410.jpg') no-repeat center center /cover;
+        background-attachment: fixed;
+        height: 600px;
+
+    }
