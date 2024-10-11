@@ -1,11 +1,4 @@
-# Laravel Blog Website
-
-## Overview
-This project is a blog website built using Laravel Blade templates, Tailwind CSS, and PHP. The blog includes various posts categorized under different topics such as Web Development, Mobile App Development, Software Development, and DevOps.
-
-
-</div>  
-<img src="public/images/software-development.png">
+# Laravel Blog Website 
 <li>CRUD</li>
 <ul>
 Create
@@ -14,7 +7,9 @@ Update
 Delete
 </ul>
 
-</div>
+## Overview
+This project is a blog website built using Laravel Blade templates, Tailwind CSS, and PHP. The blog includes various posts categorized under different topics such as Web Development, Mobile App Development, Software Development, and DevOps.
+
 
 ## Features
 - **Hero Section**: Welcomes users with a hero section that includes a call to action button to start reading blog posts.
@@ -42,4 +37,5 @@ Delete
 1. Clone the repository:
    ```bash
    git clone https://github.com/Bma47/laravel-blog.git
-<h3>Ontwikkeld door <br> <span style="color: #0f9d58">Bashir Malla Ali </span></h3>
+<img src="public/images/software-development.png">
+<span style="color: #0f9d58">Bashir Malla Ali </span>
